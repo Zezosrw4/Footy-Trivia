@@ -1,0 +1,11 @@
+# TODO
+- [ ] Create a crawler to generate a dataset of all EPL matches from any season
+- [ ] Generate a large enough dataset to create an interesting trivia game
+- [ ] Design the database schema for the trivia application
+- [ ] Choose which pieces of information will be included in the trivia game
+- [ ] Build the backend game logic
+- [ ] Map the backend game logic to the frontend
+- [ ] Implement the "multiplayer" logic for players to play games together
+- [ ] Support singleplayer trivia game
+- [ ] Dockerize the entire project
+- [ ] Implement CI/CD pipeline to push to prod
